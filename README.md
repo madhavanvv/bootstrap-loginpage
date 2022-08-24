@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm madhavan vv</h1>
-It's  a  Frontend  Web Development Project using HTML and CSS.
+It's  a simple login page using bootstrap.
 
 ## Webpage
 
@@ -7,6 +7,4 @@ It's  a  Frontend  Web Development Project using HTML and CSS.
 
 ![badge](https://img.shields.io/badge/HTML-CSS-yellowgreen)
 
-- While developing this webpage, I became more familiar with CSS position property ,CSS Selectors and HTML elements. It took around one hour to finish this project.
-
-- It is hosted on [Netlify](https://brilliant-queijadas-b5edaf.netlify.app/)
+- It is hosted on [Netlify](https://fantastic-torrone-766d55.netlify.app/)
